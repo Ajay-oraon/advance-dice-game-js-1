@@ -6,8 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-purple)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp:_JavaScript_Algorithms_and_Data_Structures_(Beta)-red)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
-![Advance Dice Game Image 1](./assets/advance-dice-game-image-1.png)
-![Advance Dice Game Image 2](./assets/advance-dice-game-image-2.png)
+![Advance Dice Game Image 1](./assets/advanced-dice-game-1.png)
+
+![Advance Dice Game Image 2](./assets/advanced-dice-game-2.png)
 
 An advance dice game, made with HTML, CSS, and JavaScript. Feel free to check the <a href="dice-game-url-here" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
 
