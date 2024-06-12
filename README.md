@@ -1,15 +1,15 @@
-# Advanced Dice Game
+# Advance Dice Game
 
-[![Advanced Dice Game](https://img.shields.io/badge/Advanced_Dice_Game-purple)](dice-game-url-here)
+[![Advance Dice Game](https://img.shields.io/badge/Advance_Dice_Game-purple)](dice-game-url-here)
 ![Project Type](https://img.shields.io/badge/Project_Type:-Course_Project-orange)
 ![HTML,CSS](https://img.shields.io/badge/HTML-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-purple)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp:_JavaScript_Algorithms_and_Data_Structures_(Beta)-red)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
-![Advanced Dice Game Image 1](./assets/advanced-dice-game-image-1.png)
-![Advanced Dice Game Image 2](./assets/advanced-dice-game-image-2.png)
+![Advance Dice Game Image 1](./assets/advance-dice-game-image-1.png)
+![Advance Dice Game Image 2](./assets/advance-dice-game-image-2.png)
 
-An advanced dice game, made with HTML, CSS, and JavaScript. Feel free to check the <a href="dice-game-url-here" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
+An advance dice game, made with HTML, CSS, and JavaScript. Feel free to check the <a href="dice-game-url-here" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
@@ -20,7 +20,7 @@ An advanced dice game, made with HTML, CSS, and JavaScript. Feel free to check t
 This is a course project for <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/" target="_blank">freeCodeCamp JavaScript Algorithms and Data Structures (Beta) Course</a>. I have went through all the code, understood everything, and even added detailed comments explaining everything. I even cleaned up the code a bit, following the DRY concept.
 
 ## Contributions:
-If you really like the integer to Advanced Dice Game, and you see something you can improve, feel free to **fork** this repo, make your changes, and submit a pull request. If you see any spelling mistake on this markdown file, or on the website/game, please make an **issue**, so that I can fix it. Thanks. Recommendations on how I can improve it would be great.
+If you really like the Advance Dice Game, and you see something you can improve, feel free to **fork** this repo, make your changes, and submit a pull request. If you see any spelling mistake on this markdown file, or on the website/game, please make an **issue**, so that I can fix it. Thanks. Recommendations on how I can improve it would be great.
 
 ## What I learnt from making this project:
 1. HTML
